@@ -3,7 +3,7 @@ layout : "post"
 ---
 Presupuesto inicial del proyecto
 
-##Costo básicos:
+###Costo básicos:
 * Hora de Producción:
 * Cantidad de personas involucradas: 1 persona
 * Análisis de COSTOS
