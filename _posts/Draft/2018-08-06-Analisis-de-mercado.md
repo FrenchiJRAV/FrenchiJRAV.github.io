@@ -46,7 +46,7 @@ Esto siendo un caso particular, no todas las competencias son juegos, tambien ha
 
 Estos se concideran como competencia directa pues todos estos ejemplos tienen en comun el hecho que son "productos" que intentan crear un reacción observable en el sujeto, ya sea un simulador quirurgico para entrenamiendo de médicos, hasta un juego que intenta tratar algun desorden psicologico con un reacción inducida. Esto provee un más grande variaded de opciones para personas interasadas en estos temas.
 
-<![Simulador VS Juego de acción](_assets\images\PulseVsCOD.png)>
+![Simulador VS Juego de acción](http://alumnos.unir.net/monicasanz/files/2013/05/pulse11.jpg)
 
 Ultimamente ha estado aumentado la demanda de simuladores y serious games, pero la oferta de buenos productos es muy poca. Por mayor parte obtienen su dinero con apoyo gubernamental (simuladores serios). Para comercialización hay simulador que son accesibles al publico pues se hacen saber atraves de redes sociales y otros medios.
 
@@ -65,6 +65,6 @@ Se consideran estos como competencia indirecta pues aunque tienen temas extremad
 
 ### Reporte de Análisis de Mercado
 
-<![FODA de mercado](\_assets\images\2018-07-30-FODA.png)>
+<![FODA de mercado]()>
 
 Ya que el tema propuesto es muy específico se puede conciderar que su mercado es un Nicho. Sera muy dificil que personas que no son ya familiares con el tema obtengan un interes en el proyecto propuesto. Aunque en los ultimos años a habido un incremento en el desarrollo de simuladores y serious games, desde areas que afectan la educacion hasta tratamiento medico. Siempre han sido temas que se han intentando resolver pero no es hasta recientemente que se esta haciendo uso de esta tecnología para abordar estos temas. Es por esto mismo que pienso que en el futuro este sector recibira mucha más atención, lo que generara un mercado que ya no sea de Nicho, pues muchas personas ya estan teniendo interes por estos temas.

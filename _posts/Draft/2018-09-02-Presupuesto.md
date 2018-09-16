@@ -7,12 +7,11 @@ Presupuesto inicial del proyecto : 24 000$ (Aproximado inicial)
 ### Costo básicos:
 * Hora de Producción: Varia entre 60-80$
 * Cantidad de personas involucradas: 1 persona
-* Análisis de COSTOS FIJOS: 7500$
-* Análisis de PRODUCTIVIDAD: Enfocado a la cantidad de trabajo que se realiza cuando el proyecto es aprobado, puedo decir que si se completa una cantidad decente de trabajo pues ya que tendre todas las bases cubiertas y aprobadadas puedo empezar con la parte divertida. Modelar, texturizar, crear de manera general.
-* Análisis de PUNTO DE EQUILIBRIO: Generalmente si manejo de manera adecuado mi tiempo, pues tengo mis horarios en donde ando full crunch, pero tomo pausas entre estos. Principalmente para no sobrecargarme y luego bajar mi productividad de manera inconciente.
-* Análisis de RETORNO DE INVERSIÓN: Tendre un retorno de la inversion inicial cuando el proyecto ya este en su fase alfa, en donde se puede prensentar un trabajo de calidad que todavia se puede pulir, pero interese otras personas.
-* Análisis de DESEMPEÑO: Tiendo a procastinar un poco, pero si pongo las horas necesarias al desarrollo del proyecto, esto aunque afecte mis horarios de descanso.
-
+* Análisis de COSTOS FIJOS: 16,000$
+* Análisis de PRODUCTIVIDAD:
+* Análisis de PUNTO DE EQUILIBRIO: 0$ pues no se ha invertido dinero o recibido donaciones.
+* Análisis de RETORNO DE INVERSIÓN:
+* Análisis de DESEMPEÑO:
 ### Costos de servicios:
 * Servidores: N/A
 * Cuotas de Publishing: N/A pues este proyecto no se piensa publicar como juego, per más similar a una demo que se puede s¿descargar de manera gratis.
@@ -21,7 +20,7 @@ Presupuesto inicial del proyecto : 24 000$ (Aproximado inicial)
 
 ### LICENSING
 * Software : N/A pues por el momento se usa licensia de estudiante, y como previamente mencionado este proyecto no busca lucrar, por lo que las licencias no necesitan ser actualizadas (Maya tiene uun costo de 9000$).
-* Devkits: Windows, Unity, y Unreal (Por el momeno 0$)
+* Devkits: Windows, Unity, y Unreal (Por el momento 0$)
 * Contenido: N/A pues todo el contenido debe ser desarrollado por uno mismo
 
 ### MARKETING
