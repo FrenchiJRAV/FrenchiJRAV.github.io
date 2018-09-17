@@ -60,11 +60,10 @@ Ahora por riesgos ya al desarrollar el proyecto
 
 ### Ruta Crítica
 
-<![Ruta Critica](_assets\images\FODA-Personal.png)>
+![Ruta Critica](\images\Hack&Plan01.png)
 
 ### Canvas Land!!
 
-<![Gamification Model](_assets\images\FODA-Personal.png)>
-<![Business Model](_assets\images\FODA-Personal.png)>
-<![Product Key Partners](_assets\images\FODA-Personal.png)>
-<![Player Journey](_assets\images\FODA-Personal.png)>
+![Gamification Model](\images\GamificationModel.png)
+![Business Model](\images\BusinessPlan.png)
+![Player Journey](\images\PlayerJourney.png)
