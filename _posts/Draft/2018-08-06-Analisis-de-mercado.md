@@ -65,6 +65,6 @@ Se consideran estos como competencia indirecta pues aunque tienen temas extremad
 
 ### Reporte de Análisis de Mercado
 
-<![FODA de mercado]()>
+![FODA de mercado](\images\FodaMercado.png)
 
 Ya que el tema propuesto es muy específico se puede conciderar que su mercado es un Nicho. Sera muy dificil que personas que no son ya familiares con el tema obtengan un interes en el proyecto propuesto. Aunque en los ultimos años a habido un incremento en el desarrollo de simuladores y serious games, desde areas que afectan la educacion hasta tratamiento medico. Siempre han sido temas que se han intentando resolver pero no es hasta recientemente que se esta haciendo uso de esta tecnología para abordar estos temas. Es por esto mismo que pienso que en el futuro este sector recibira mucha más atención, lo que generara un mercado que ya no sea de Nicho, pues muchas personas ya estan teniendo interes por estos temas.
