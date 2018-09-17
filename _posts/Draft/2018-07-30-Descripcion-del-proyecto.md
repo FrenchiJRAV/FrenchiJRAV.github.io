@@ -5,7 +5,7 @@ layout: "post"
 Este proyecto tiene por objetivo observar como los jugadores reacionan a ciertos tipos de ambientes. Como nos sentimos cuando estamos en plena luz y podemos ver todo lo que nos rodea. Como nos sentimos al estar submergidos en completa obscuridad. De que manera estas circumstancias afectan a la mente humana, y como esta misma puede ser entrenada para ciertas respuestas o tareas.
 
 ### Estado emocional
-
+Se busca controlar el estado emocional del jugador mediante la iluminación ambiental, de interior o exterior. Se busca inducir emociones como miedo, alegria, ansiedad, etc.
 
 ### Tema
 Cada detalle del proyecto depende de la iluminación. La luz tiene el poder de completamente cambiar el ambiente alrededor del jugador. Tiene la habilidad de ayudarlo o lastimarlo. Los conceptos primarios son luz y sombra, como afecta nuestra percepción y la manera en que razonamos al estar en uno o el otro.
@@ -22,5 +22,3 @@ Outlast: Hace un muy buen uso del espacio para comunicarse con el jugador. Esa m
 Este proyecto es un pequeño "juego" en donde hay varias áreas difererentes. Cada área tiene diferente iluminación. Su objetivo es provocar un estímulo diferente en cada zona.
 
 No es un juego que tiene un objetivo o un fin. Puede ser considerado como un pequeño y controlado experimento.
-
-### Propuesta de valor

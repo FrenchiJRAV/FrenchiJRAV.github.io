@@ -1,7 +1,7 @@
 ---
 layout: "post"
 ---
-¿Como definiria  la exoerincia que quiero compartir?
+¿Como definiria  la experiencia que quiero compartir?
 Palabra clave: Iluminación
 
 ### Gameplay

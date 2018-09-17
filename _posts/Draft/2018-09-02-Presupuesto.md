@@ -8,10 +8,11 @@ Presupuesto inicial del proyecto : 24 000$ (Aproximado inicial)
 * Hora de Producción: Varia entre 60-80$
 * Cantidad de personas involucradas: 1 persona
 * Análisis de COSTOS FIJOS: 16,000$
-* Análisis de PRODUCTIVIDAD:
+* Análisis de PRODUCTIVIDAD: Limitado en las primeras fases, y luego e abrira a todo publico interesado en probar el proyecto.
 * Análisis de PUNTO DE EQUILIBRIO: 0$ pues no se ha invertido dinero o recibido donaciones.
-* Análisis de RETORNO DE INVERSIÓN:
-* Análisis de DESEMPEÑO:
+* Análisis de RETORNO DE INVERSIÓN: Empieza con 0$
+* Análisis de DESEMPEÑO: Se espera una buena respuesta por parte del publico.
+
 ### Costos de servicios:
 * Servidores: N/A
 * Cuotas de Publishing: N/A pues este proyecto no se piensa publicar como juego, per más similar a una demo que se puede s¿descargar de manera gratis.
