@@ -2,7 +2,7 @@
 layout: "post"
 ---
 
-###Conceptualización y creación de modeles 3D
+Conceptualización y creación de modeles 3D
 
 El proceso para obtener un objeto 3D es más complicado de lo que uno pensaría inicialmente. No se trata simplemente de crear una forma básica y deformarlo hasta que obtengamos lo que deseamos. Personalmente tengo un proceso con el que me siento cómodo trabajando, este tipo de procesos son variados, y los conocemos principalmente como “pipelines” de trabajo, que nos ayudan a optimizar nuestro rendimiento.
 Bien, ahora les describiré como funciona mi pipeline personal. Esto no significa que sea el mejor que exista o les recomiendo seguirlos ustedes mismos, solamente es para ejemplificar mi método de trabajo.
